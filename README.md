@@ -4,9 +4,6 @@ A full-stack café web application built with **PHP, MySQL, HTML, CSS, and JavaS
 
 Café Midori provides a complete customer-facing café experience with user authentication, menu browsing, shopping cart and checkout, order tracking, customer profiles, messaging, reviews, blog content, product search, and interactive café-themed activities.
 
-**Live Demo:** https://cafemidori.infinityfreeapp.com
-**Repository:** https://github.com/LaLia63/CafeMidori
-
 ---
 
 ## Features
