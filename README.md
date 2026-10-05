@@ -532,7 +532,7 @@ This project demonstrates practical experience with:
 
 Full Stack Developer & UI/UX Designer
 
-GitHub: https://github.com/LaLia63
+[Hsu Yati Zaw](https://github.com/LaLia63)
 
 ---
 
